@@ -1,0 +1,7 @@
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\obj\Debug\Extensibility.csprojAssemblyReference.cache
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\Aaron.Singleterry\source\repos\Extensibility\obj\Debug\Extensibility.pdb
